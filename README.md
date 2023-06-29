@@ -4,7 +4,7 @@ This project explores a public Airbnb dataset containing listings from New York 
 Data available at: http://insideairbnb.com/get-the-data 
 
 ## Data Cleaning 
-Several steps were taken to clean to the data, impute null values and deal with outliers.
+Several steps were taken to clean to the data, impute null values and deal with outliers. 
 
 ## Data Visualization 
 ![locations](https://github.com/varshikap02/airbnb-price-pred/assets/135074696/76870a73-bc38-4d48-9681-7c9fa05035c7)
